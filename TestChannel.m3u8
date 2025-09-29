@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1,Cow
+https://ia601307.us.archive.org/4/items/yt-CNArchive/CCF%20-%20%27Never%20seen%20before%27%20Cow%20%26%20Chicken%20promo%20%281999%29-awbV_usfDJI.mp4
+#EXTINF:-1,Roll
+https://ia601307.us.archive.org/4/items/yt-CNArchive/CCF%20Australia%20intro%20%282002%29-wC6HO51_Wa8.mp4
+#EXTINF:-1,TOON
+https://ia801307.us.archive.org/4/items/yt-CNArchive/CN%20%27Toon-In%27%20spot%20-%20The%20Flintstones%20and%20Jetsons%20%281993%29-WfcOGFu9Iwk.mp4
+
+#EXT-X-ENDLIST
